@@ -1,2 +1,2 @@
-# Machine Learning Mini Projects
-Awesome Mini Projects from the ML Club. View each of them or download all of them with <i> git clone</i> on a Git compiler.
+# PH-Classifier
+PH-Classfier created with sklearn. View or download it with <i> git clone</i> on a Git compiler.
